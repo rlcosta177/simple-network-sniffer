@@ -15,7 +15,7 @@ this is a simple network sniffer written in Python using the scapy library.
    - pip install scapy (for windows systems)
    - apt install python3-scapy (for debian based systems)
 
-### Linux Installation
+### Linux Installation & Usage
 
 1. Clone the repository to your local machine:
 
@@ -35,7 +35,7 @@ this is a simple network sniffer written in Python using the scapy library.
 
 ---
 
-### Windows Installation
+### Windows Installation & Usage
 
 1. Clone the repository to your local machine using Powershell(open as admin):
 

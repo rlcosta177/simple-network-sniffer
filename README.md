@@ -1,6 +1,6 @@
-# Simple network sniffer
+# Simple packet sniffer
 
-this is a simple network sniffer written in Python using the scapy library.
+this is a simple packet sniffer written in Python using the scapy library.
 
 ## Features
 
@@ -20,11 +20,11 @@ this is a simple network sniffer written in Python using the scapy library.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/rlcosta177/simple_network_sniffer.git
+   git clone https://github.com/rlcosta177/simple_packet_sniffer.git
    ```
 2. `cd` into the directory:
    ```bash
-   cd simple_network_sniffer
+   cd simple_packet_sniffer
    ```
 3. Run the program with the following syntax:
    ```bash
@@ -40,11 +40,11 @@ this is a simple network sniffer written in Python using the scapy library.
 1. Clone the repository to your local machine using Powershell(open as admin):
 
    ```bash
-   git clone https://github.com/rlcosta177/simple_network_sniffer.git
+   git clone https://github.com/rlcosta177/simple_packet_sniffer.git
    ```
 2. `cd` into the directory:
    ```bash
-   cd .\simple_network_sniffer
+   cd .\simple_packet_sniffer
    ```
 
 3. Run the program with the following syntax:
